@@ -1,6 +1,6 @@
 <?php 
-$usuario="root";
-$password="toor";//
+$usuario="milfsuser";
+$password="milfsuser";//
 $servidor="localhost";
 $db="milfs";
 $path_instalacion ="/var/www/html/milfs";
